@@ -2,4 +2,4 @@ name = "yfilms"
 compatibility_date = "2025-08-06"
 
 [assets]
-directory = "./dist"
+directory = "./dist"  # This should match the output directory from vite.config.js
